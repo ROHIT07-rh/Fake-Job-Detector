@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3"
+  },
+  "dependencies": {
+    "lucide-react": "^1.47.0",
+    "recharts": "^3.10.1"
+  }
+}

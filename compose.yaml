@@ -1,0 +1,6 @@
+services:
+  fakejobdetector:
+    image: fakejobdetector
+    build:
+      context: .
+      dockerfile: ./Dockerfile
